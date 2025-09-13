@@ -57,6 +57,7 @@ Read more: https://haveibeenpwned.com/API/v3#PwnedPasswords
 
 MIT License — feel free to use, modify, and share!
 
-Copyright (c) 2025 Your Name
+Copyright (c) 2025 galaxyjudge
 
 Made with ❤️ by galaxyjudge☄️
+
